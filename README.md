@@ -6,12 +6,13 @@ Gartin Adventures in Learning/Re-Learning/Refreshing
 
 Folder Organization
 ### C++
- -root
- |__bin
- |__docs
- |__include
- |__src
- |__tests
+
+ * root
+	 - bin
+	 - docs
+	 - include
+	 - src
+	 - tests
 
 ### C#
 
